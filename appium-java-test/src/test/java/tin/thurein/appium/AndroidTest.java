@@ -23,9 +23,9 @@ public class AndroidTest extends BaseTest {
 
 	@BeforeClass
     public void setUp() throws IOException {
-        File classpathRoot = new File(System.getProperty("user.dir"));
+        File classpathRoot = new File(".");
         System.out.println("Set up");
-        File appDir = new File(classpathRoot, "../appium-test/apps");
+        File appDir = new File(classpathRoot, "../appium-java-test/apps");
         File app = new File(appDir.getCanonicalPath(), "app-debug.apk");
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability(MobileCapabilityType.NO_RESET, true);

@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18123" started-at="2020-04-06T13:08:49 MMT" finished-at="2020-04-06T13:09:07 MMT">
+  <suite name="Default suite" duration-ms="16194" started-at="2020-04-06T14:31:25 MMT" finished-at="2020-04-06T14:31:42 MMT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18123" started-at="2020-04-06T13:08:49 MMT" finished-at="2020-04-06T13:09:07 MMT">
+    <test name="Default test" duration-ms="16194" started-at="2020-04-06T14:31:25 MMT" finished-at="2020-04-06T14:31:42 MMT">
       <class name="tin.thurein.appium.AndroidTest">
-        <test-method status="PASS" signature="globalSetup()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="globalSetup" is-config="true" duration-ms="2950" started-at="2020-04-06T13:08:46 MMT" finished-at="2020-04-06T13:08:49 MMT">
+        <test-method status="PASS" signature="globalSetup()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="globalSetup" is-config="true" duration-ms="3072" started-at="2020-04-06T14:31:22 MMT" finished-at="2020-04-06T14:31:25 MMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- globalSetup -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="setUp" is-config="true" duration-ms="14974" started-at="2020-04-06T13:08:49 MMT" finished-at="2020-04-06T13:09:04 MMT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="setUp" is-config="true" duration-ms="13369" started-at="2020-04-06T14:31:25 MMT" finished-at="2020-04-06T14:31:39 MMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testOpensAlert()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="testOpensAlert" duration-ms="2375" started-at="2020-04-06T13:09:04 MMT" finished-at="2020-04-06T13:09:06 MMT">
+        <test-method status="PASS" signature="testOpensAlert()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="testOpensAlert" duration-ms="2018" started-at="2020-04-06T14:31:39 MMT" finished-at="2020-04-06T14:31:41 MMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOpensAlert -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-04-06T13:09:06 MMT" finished-at="2020-04-06T13:09:07 MMT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="tearDown" is-config="true" duration-ms="757" started-at="2020-04-06T14:31:41 MMT" finished-at="2020-04-06T14:31:42 MMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="globalTearDown()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="globalTearDown" is-config="true" duration-ms="51" started-at="2020-04-06T13:09:07 MMT" finished-at="2020-04-06T13:09:07 MMT">
+        <test-method status="PASS" signature="globalTearDown()[pri:0, instance:tin.thurein.appium.AndroidTest@528931cf]" name="globalTearDown" is-config="true" duration-ms="52" started-at="2020-04-06T14:31:42 MMT" finished-at="2020-04-06T14:31:42 MMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- globalTearDown -->
